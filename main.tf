@@ -4,5 +4,5 @@ provider "aws" {
 
 module "module-nikvm" {
   source  = "app.terraform.io/pathaknikhil87/terraform-aws-nikvm"
-  version = "v1.0.2"
+  version = "v1.0.3"
 }
